@@ -134,3 +134,10 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.gitignore.io/api/eclipse,netbeans,intellij
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+Prezenckovnik.iml
+target/
