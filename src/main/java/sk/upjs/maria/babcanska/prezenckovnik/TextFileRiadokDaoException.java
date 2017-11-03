@@ -1,6 +1,6 @@
 package sk.upjs.maria.babcanska.prezenckovnik;
 
-public class TextFileRiadokDaoException extends RuntimeException {
+public class TextFileRiadokDaoException extends DaoException {
 
    //RuntimeException nemusis chytat, ani davat do throws
 

@@ -8,5 +8,5 @@ public interface RiadokDao {
    Riadok vymazPodlaIdRiadok(Long id);
 
    //CREATE
-   Riadok pridajRiadok(Riadok riadok);
+   Riadok pridajRiadok(Riadok riadok) throws DaoException;
 }
